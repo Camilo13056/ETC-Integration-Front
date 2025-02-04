@@ -75,9 +75,7 @@ export default function Login() {
                 Ingresar
               </button>
             </form>
-            <div className="mt-8 text-center text-sm text-gray-600">
-              etc.integration@gmail.com
-            </div>
+           
           </div>
         </div>
       </main>
